@@ -48,10 +48,10 @@ We focus on the **Capacitated VRP (CVRP)** — the most widely used variant in l
 ### Example: Brunei Delivery Optimization
 
 ```text
-Optimal Solution Found!
-TOTAL DISTANCE : 106.80 km
-TOTAL COST     : Ringgit Malaysia 137.66
-
-Type A     |   53.6 km | RM  64.32 | DEPOT → C7 → C10 → C9 → C8 → C3 → DEPOT
-Type A     |   21.9 km | RM  26.28 | DEPOT → C6 → C2 → C5 → DEPOT
-Type B     |   31.3 km | RM  46.95 | DEPOT → C1 → C4 → DEPOT
+============================================================
+TOTAL DISTANCE : 101.51 km
+TOTAL COST     : Ringgit Malaysia 121.81
+============================================================
+Type A   |   43.6 km | Ringgit Malaysia  52.34 | Route: DEPOT → DEPOT → C2 → C5 → C1 → C4 → C3 → DEPOT
+Type A   |   57.9 km | Ringgit Malaysia  69.47 | Route: DEPOT → DEPOT → C8 → C9 → C10 → C7 → C6 → DEPOT
+Type B   |    0.0 km | Ringgit Malaysia   0.00 | Route: DEPOT → DEPOT → DEPOT
